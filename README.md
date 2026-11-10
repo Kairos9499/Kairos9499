@@ -20,17 +20,7 @@
 
 ### 🤝 Социальные сети:
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/pavelzaytsev0904/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/pavlious" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-    <a href="https://vk.ru/pavelious" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="vk"/>
-    </a>
-  </div>
+  <div id="badges"><a href="https://www.linkedin.com/in/pavelzaytsev0904/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" /></a><a href="https://t.me/pavlious" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" /></a><a href="https://vk.ru/pavelious" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="vk"/></a></div>
 <!--
 **Kairos9499/Kairos9499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
