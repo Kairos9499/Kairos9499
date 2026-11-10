@@ -10,9 +10,9 @@
 - 🔧 **Разработка API:** проектирование и создание серверных приложений с REST API;
 - 🐳 **Docker:** упаковка приложений в образы, запуск мульти-контейнерных приложений;
 - 🌐 **Веб-разработка**: адаптивная верстка и оживление интерфейсов (HTML, CSS, JavaScript).
--  **Другое:** дополнительно я изучал C, C++, C#, PHP, Python, Assembler.
+- 💬 **Другое:** дополнительно я изучал C, C++, C#, PHP, Python, Assembler.
 
-
+![snake](snake.svg)
 
 <!--
 **Kairos9499/Kairos9499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
