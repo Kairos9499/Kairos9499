@@ -20,15 +20,15 @@
 
 ### 🤝 Социальные сети:
 
-  <div id="badges"> 
+<div id="badges"> 
   <a href="https://www.linkedin.com/in/pavelzaytsev0904/" target="_blank" style="text-decoration: none;"> 
-    <img src="https://flaticon.com" width="40" height="40" alt="linkedin" /> 
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" /> 
   </a> 
   <a href="https://t.me/pavlious" target="_blank" style="text-decoration: none;"> 
-    <img src="https://flaticon.com" width="40" height="40" alt="telegram" /> 
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" /> 
   </a> 
   <a href="https://vk.ru/pavelious" target="_blank" style="text-decoration: none;"> 
-    <img src="https://flaticon.com" width="40" height="40" alt="vk"/> 
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="vk"/> 
   </a> 
 </div>
   
