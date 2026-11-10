@@ -22,6 +22,8 @@
 
 <div id="badges"><a href="https://www.linkedin.com/in/pavelzaytsev0904/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" hspace="5" alt="linkedin" /></a><a href="https://t.me/pavlious" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" hspace="5" alt="telegram" /></a><a href="https://vk.ru/pavelious" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" hspace="5" alt="vk"/></a></div>
 
+---
+
   ### 💻 Технологии:
 
 <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go"/></a>
