@@ -12,7 +12,9 @@
 - 🌐 **Веб-разработка**: адаптивная верстка и оживление интерфейсов (HTML, CSS, JavaScript).
 - 💬 **Другое:** дополнительно я изучал C, C++, C#, PHP, Python, Assembler.
 
-![snake](snake.svg)
+<p align="center">
+ <img width="600" src="./snake.svg" alt="snake"/>
+</p>
 
 <!--
 **Kairos9499/Kairos9499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
