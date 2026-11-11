@@ -34,6 +34,15 @@
 <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
 
+---
+
+### 🛠️ Мои проекты:
+
+| **Название**             | **Описание**                                                 | **Технологии**                                  |
+| ------------------------ | ------------------------------------------------------------ | ----------------------------------------------- |
+| <a href="https://github.com/Kairos9499/PostgreSQL-Manager">PostgreSQL Manager</a>       | Инструмент для работы с базой данных PostgreSQL через веб-интерфейс или через REST API | Go, HTML, REST API, PostgreSQL, Swagger, Docker |
+| <a href="https://github.com/Kairos9499/Asynchronous-Web-Crawler">Asynchronous Web Crawler</a> | Cервер принимает задания на обход сайтов через REST API, ставит их в асинхронную очередь, а пул воркеров (goroutines) выполняет обход в фоне | Go, REST API, PostgreSQL, Docker                |
+| <a href="https://github.com/Kairos9499/Image-Processing-Service">Image Processing Service</a> | Cервис для обработки изображений: создание миниатюры, изменение размера, преобразование в черно-белый цвет | Go, gRPC, SQLite, Docker                        |
 <!--
 **Kairos9499/Kairos9499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
